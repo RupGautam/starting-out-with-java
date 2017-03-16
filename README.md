@@ -11,3 +11,6 @@ Starting out with JAVA from control structure through objects 5th Edition
 | Chapter 6: First Look at Classes  | [Note]()|[Codes]()|[Exercise Solution]() |
 | Chapter 7: Arrays and the ArrayList Class  | [Note]()|[Codes]()|[Exercise Solution]() |
 | Chapter 8: Second Look at Classes and Objects  | [Note]()|[Codes]()|[Exercise Solution]() |
+
+
+Note: This repo is for my own educational purpose. Also, Solution to the exercises are my own.
