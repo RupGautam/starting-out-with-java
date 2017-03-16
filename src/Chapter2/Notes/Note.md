@@ -8,7 +8,7 @@
   however. Using Scanner class's nextLine method to read a string from the keyboard,
   and then use String class's charAt method to extract the first character of the string will solve the problem.
   
-*nextLine Scanner method's annoying problem :*
+*Scanner method's annoying nextLine problem:*
 
   
 
