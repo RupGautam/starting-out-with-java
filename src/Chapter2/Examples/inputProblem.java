@@ -1,4 +1,4 @@
-package Chapter2;
+package Chapter2.Examples;
 
 /**
  * Created by RupGautam on 3/15/17.
