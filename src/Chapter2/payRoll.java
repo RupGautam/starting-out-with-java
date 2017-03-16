@@ -42,8 +42,8 @@ public class payRoll {
     grossPay = hours * payRate;
 
     //Display the resulting payment
-    System.out.println("Hello, "+ name);
-    System.out.println("Your gross pay is 4"+grossPay);
+    System.out.println("Hello, " + name);
+    System.out.println("Your gross pay is 4" + grossPay);
 
 
   }
