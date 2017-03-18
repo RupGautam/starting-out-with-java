@@ -16,5 +16,9 @@
    
   
 4. Explain what programming style means. Why should your programming style be consistent?
-  
+    
+     The term Programming Style is referred to visual rules or guidelines used 
+     when writing the source code.
+     Particularly indentations, blank lines, spaces etc. 
+     Which tell a programmer important information about the program. 
  
