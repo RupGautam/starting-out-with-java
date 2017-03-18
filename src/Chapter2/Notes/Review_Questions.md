@@ -1,9 +1,9 @@
-1. Describe what the phrase "self-documenting program" means. 
+1. Describe what the phrase *"self-documenting program"* means. 
   
   
   
   
-2. What is meant by "Case-sensitive"? Why it is important for a programmer to know 
+2. What is meant by *"Case-sensitive"*? Why it is important for a programmer to know 
   that Java is a case-sensitive language?
   
    
