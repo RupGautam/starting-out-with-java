@@ -1,32 +1,46 @@
-### Chapter 2: Java Fundamentals Notes
+### Chapter 3: Decision Structure 
 
 
-*Reading a Character :*
+###  The if Statement
+The if statement is used to create a decision structure, which allows a program to have
+one path of execution. The if statement causes one or more statement to execute only 
+when a boolean expression is true. 
 
-  The Scanner class does not have a method for reading a single character,
-  however. Using Scanner class's nextLine method to read a string from the keyboard,
-  and then use String class's charAt method to extract the first character of the string will solve the problem.
+The below image explain the if-else statement. 
+![if-else statement](http://i.imgur.com/hNAmaz3.jpg)
+
   
-*Scanner method's annoying nextLine problem:*
+### Type of if Statements: 
 
-  Will update later... 
-
-
-*Common Errors to Avoid*
+#### Sequence:
+  A sequence structure is one that comprises instructions that are to be executed sequentially one after 
+  the other, with branching off in another direction. 
   
-* Mismatched braces, quotation marks, or parentheses. 
-* Misspelling key words.
-* Using capital letters in key word.
-* Using key word as variable name. 
-* Using inconsistent spelling of variable names.
-* using inconsistent case of letters in variable names.
-* Inserting a space in a variable name.
-* Forgetting the semicolon at the end of the statement.
-* Assigning a double literal to a float variable.
-* Using commas or other currency symbols in numeric literals.
-* Unintentionally performing integer division. 
-* Forgetting to group parts of a mathematical expression.
-* Inserting a space in a combined assignment operator.
-* Using a variable to receive the result of calculation when the variable's data type is incompatible with the data type of the result. 
-* Incorrectly terminating a multi*line comment or a documentation comment 
-* Forgetting to use the correct import statement in a program that uses X library. 
+
+#### Selection:
+  A Selection(sometime it's also called decision too) structure allows for exactly one of a set  of 
+  sequence to be executed. In selection, a question is asked, and depending on the answer, the program 
+  take the second action, after which program move to the next event. 
+    
+  
+
+#### Iteration:
+  A Iteration or Loop structure comprises a sequence  that is  to be executed iteratively. Program repeatedly
+  executes the loops. 
+  
+ 
+  
+### Relational Operators: 
+ 
+
+Precedence | Meaning |
+--- | --- | 
+ `>`| `Greater than` | 
+`<` | `Less than` |
+`>=`| `Greater than or equal to` |
+`<=`|`Less than or equal to` |
+`==`|`Equal to` |
+`!=`|`Not Equal` |
+
+
+
