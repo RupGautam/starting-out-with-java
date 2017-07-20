@@ -6,7 +6,9 @@ The if statement is used to create a decision structure, which allows a program 
 one path of execution. The if statement causes one or more statement to execute only 
 when a boolean expression is true. 
 
-The below image explain the if-else statement. 
+
+The below image explain the if-else statement.
+ 
 ![if-else statement](http://i.imgur.com/hNAmaz3.jpg)
 [IMG source](https://www.tutorialspoint.com/java/java_loop_control.htm)
 
