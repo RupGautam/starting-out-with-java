@@ -1,4 +1,4 @@
-### Chapter 3: Decision Structure 
+# Chapter 3: Decision Structure 
 
 
 ###  The if Statement
@@ -47,4 +47,44 @@ Precedence | Meaning |
 `!=`|`Not Equal` |
 
 
+### if Statement writing style 
 
+Single statement example: 
+  ```
+    if (experssion)
+      statement; --> semicolon goes here
+  ```
+
+More than one statement example: 
+```
+  if (experssion) {
+    statement; --> semicolon goes here
+  } else {
+    statement; --> semicolon goes here
+  }
+     
+```
+
+Multiple statement example: 
+```
+  if (experssion)
+     statement;
+     else if (experssion)
+     statement;
+     else
+     statement;
+     
+```
+Or (by using brackets)
+```
+  if (experssion){ --> open bracket
+     statement; --> semicolon 
+     } --> closing bracket 
+     else if (experssion){
+     statement;
+     }
+     else {
+     statement;
+     }
+     
+```
